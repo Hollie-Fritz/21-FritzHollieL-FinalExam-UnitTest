@@ -1,0 +1,6 @@
+1. Write test method for calling add with a negative number which throws an exception.
+2. Write a test for numbers bigger than 1000 which should be ignored.
+3. Move on and write the new exception and >=1000 to be ignored in the StringCalculator class add method
+4. Test the newly added exception and >=1000 ignored
+5. If they do not pass your test cases then fix them in the add method
+6. Test again, if not repeat until they do
